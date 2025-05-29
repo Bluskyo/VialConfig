@@ -7,5 +7,6 @@ Layer 0:<br>
 Layer 1: <br>
 ![Skjermbilde 2025-05-28 152819](https://github.com/user-attachments/assets/97300834-99cb-4a70-9c42-c718530dad58)
 
-Layer 2: <br>
-![Skjermbilde 2025-05-28 152830](https://github.com/user-attachments/assets/ea680c15-01d1-4146-8f9c-c6a9cd03db61)
+Layer 2 (Leverless mode): <br>
+![image](https://github.com/user-attachments/assets/3c1dc1f1-982f-4ac0-b7b8-c713d22ed2cc)
+
